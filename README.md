@@ -9,3 +9,5 @@ go get github.com/ShinichR/diandianPostSpider
 go get github.com/hu17889/go_spider
 ```
 
+## Thanks
+thanks [**hu17889**](github.com/hu17889/go_spider) 
